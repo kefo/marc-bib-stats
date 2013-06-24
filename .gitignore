@@ -1,0 +1,10 @@
+
+.bui*
+.proj*
+.settin*
+
+*.rdf
+*.xml
+*.gz
+
+
